@@ -44,8 +44,5 @@ From what I've learned in the Programming Fundamentals II course in the first ye
 ## 🔗 ลิงก์
 [![youtube](https://img.shields.io/badge/Youtube_video-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/watch?v=mTzNyXlJDz8)
 
-## 🔗 Links
-[![youtube](https://img.shields.io/badge/Youtube_video-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/watch?v=mTzNyXlJDz8)
-
 
 
