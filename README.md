@@ -42,7 +42,7 @@ From what I've learned in the Programming Fundamentals II course in the first ye
 *หมายเหตุ: ผู้พัฒนาใช้ Java เวอร์ชัน: java 21.0.2 2024-01-16 LTS
 
 ## 🔗 ลิงก์
-[![youtube](https://img.shields.io/badge/Youtube_video-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.youtube.com/watch?v=mTzNyXlJDz8)
+[![youtube](https://img.shields.io/badge/Youtube_video-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://youtu.be/uKEi0TSQzCg)
 
 
 
